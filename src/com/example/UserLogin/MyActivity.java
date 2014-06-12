@@ -39,10 +39,10 @@ public class MyActivity extends Activity {
                    /* Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.google.co.in/maps/place/The+Egghead+Creative/@17.44176,78.39878,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x5fa56c2c36d7106d"));*/
 
                 } else {
-                    /*Toast t = Toast.makeText(getApplicationContext(), "Please Check User Name/Password", Toast.LENGTH_LONG);
+                    Toast t = Toast.makeText(getApplicationContext(), "Please Check User Name/Password", Toast.LENGTH_LONG);
                     t.setGravity(Gravity.CENTER, 20, -100);
-                    t.show();*/
-                    displayMessage.setText("Please Check User Name/Password");
+                    t.show();
+                    /*displayMessage.setText("Please Check User Name/Password");*/
                 }
 
 
