@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UserLogin</string>
+    <string name="user_name"/>
+    <string name="password"/>
+    <string name="submit_button">Login</string>
+    <string name="message"/>
+    <string name="location">Show Location</string>
+</resources>
